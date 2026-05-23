@@ -16,14 +16,15 @@ Este proyecto fue construido como parte de mi proceso de aprendizaje y crecimien
 
 ##  Vista previa
 
+
 <p align="center">
-   <img src="screenshots/splash1.png" width="220"/>
-   <img src="screenshots/splash2.png" width="220"/>
+   <img src="app/screenshots/splash1.png" width="220"/>
+   <img src="app/screenshots/splash2.png" width="220"/>
 </p>
 
 <p align="center">
-   <img src="screenshots/splash3.png" width="220"/>
-   <img src="screenshots/splash4.png" width="220"/>
+   <img src="app/screenshots/splash3.png" width="220"/>
+   <img src="app/screenshots/splash4.png" width="220"/>
 </p>
 
 ##  Objetivo del proyecto
